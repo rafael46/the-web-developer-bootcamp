@@ -6,7 +6,8 @@ p {
   /*Border*/
 
   border: 2px solid blue;
-
+  border: 10px solid blue;
+  
   /*Padding*/
   padding: 15px;
   /*padding: 10px;*/
