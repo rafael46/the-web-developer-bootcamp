@@ -37,7 +37,7 @@ a[href="http://www.google.com"] {
 }
 
 /*nth of type*/
-
+/* even  */
 li:nth-of-type(odd){
 	background: purple;
 }
